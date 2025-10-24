@@ -11,7 +11,7 @@ Join Queries.
 View Queries.
 Altering Table Queries.
 Creating Table Query.
-
+Hello
 1. Finding Data Queries
 SELECT: used to select data from a database
 SELECT * FROM table_name;
